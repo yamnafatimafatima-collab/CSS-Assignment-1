@@ -1,0 +1,109 @@
+*body{
+    background-color: gray;
+    width: 95%;
+}
+header {
+    background-color: lightgrey;
+    padding: 20px;
+    width: 92%;           
+    margin: 20px auto;  
+    text-align: center; 
+}
+
+header h3 {
+    font-size: 20px; 
+    color: gray;
+    text-align: left;   
+}
+
+ div [class="one"]{
+    font-size: 30px;
+    background-color: #30244d;
+    font-size: 30px ;
+    width: 95%;           
+    margin: auto;
+  }
+  div [class="two"]{
+    font-size: 30px;
+    background-color: #3b2c5e;
+     width: 95%;           
+    margin:  auto;
+  }
+   div[class="three"]{
+    font-size: 30px;
+   background-color: #45346e;
+     width: 95%;           
+    margin: auto;
+   }
+   div[class="four"]{
+    font-size: 30px;
+    background-color:#61499b;
+     width: 95%;           
+    margin: auto;
+   }  
+   div[class="five"]{
+    font-size: 30px;
+    background-color:#6b51ab;
+    width: 95%;           
+    margin: auto;
+   }
+   div[class="six"]{
+    font-size: 30px;
+    background-color: #8771bc;
+     width: 95%;           
+    margin: auto;
+   }
+   div [class="seven"]{
+    font-size: 30px;
+    background-color:#c4b9de;
+     width: 95%;           
+    margin: auto;
+   }
+   div[class="eight"]{
+    font-size: 30px;
+    background-color: #0b3b7e;
+     width: 95%;           
+    margin:  auto;
+   }
+   div[class="nine"]{
+    font-size: 30px;
+    background-color: #e75480;
+     width: 95%;           
+    margin:  auto;
+   }
+   div[class="ten"]{
+    font-size: 30px;
+    background-color: #e9658d;
+     width: 95%;           
+    margin:  auto;
+   }
+   div[class="eleven"]{
+    font-size: 30px;
+    background-color: #ec7699;
+     width: 95%;           
+    margin: auto;
+   }
+   div[class="twelve"]{
+    font-size: 30px;
+    background-color:#ee87a6 ;
+     width: 95%;           
+    margin: auto;
+   }
+   div[class="thirteen"]{
+    font-size: 30px;
+    background-color: #ee87a6;
+     width: 95%;           
+    margin: auto;
+   }
+  div[class="fourteen"]{
+    font-size: 30px;
+    background-color: #f198b3;
+     width: 95%;           
+    margin: auto;
+  }
+   div[class="fifteen"]{
+    font-size: 30px;
+    background-color:#f3aac0 ;
+     width: 95%;  
+    margin: auto;         
+   }
